@@ -27,6 +27,11 @@ li {
 form {
 	text-align: center;
 }
+input[type="submit"] {
+	background-color: #9bc400;
+	color: #3d7c47;
+	padding: 10px;
+}
 p {
 	text-align: center;
 }
